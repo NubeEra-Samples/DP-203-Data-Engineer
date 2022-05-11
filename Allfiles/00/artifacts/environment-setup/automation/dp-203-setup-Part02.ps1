@@ -1,9 +1,4 @@
-﻿Set-ExecutionPolicy Unrestricted
-			
-cd C:\dp-203\data-engineering-ilt-deployment\Allfiles\00\artifacts\environment-setup\automation\
-
-
-# Import modules
+﻿# Import modules
 Import-Module "..\solliance-synapse-automation"
 
 # Paths
